@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &apratimbh
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Apratim Bhattacharyya"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Saarbrücken"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.de/citations?user=SKb4VyUAAAAJ&hl=en"
