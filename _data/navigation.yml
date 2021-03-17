@@ -4,11 +4,5 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "CV"
-    url: /files/cv.pdf 
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /files/cv.pdf    
