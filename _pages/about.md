@@ -10,5 +10,4 @@ I am a PhD student at the Max Planck Institut für Informatik, Saarbrücken, adv
 
 ## Publications
 
-* <img style="float: right;" src="/images/papers/europvi.jpg" alt="europvi"
-	title="A cute kitten" height="150" /> Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers,
+* <img style="float: left;" src="/images/papers/europvi.jpg" alt="europvi" title="europvi" height="150" /> Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers,
