@@ -10,4 +10,4 @@ I am a PhD student at the Max Planck Institut für Informatik, Saarbrücken, adv
 
 ## Publications
 
-* <img style="float: left; height:100px; margin-right:20px" src="/images/papers/europvi.jpg" alt="europvi" title="europvi" /> <span style="font-size:14px;">Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers, </span>
+* <img style="float: left; height:100px; margin-right:20px" src="/images/papers/europvi.jpg" alt="europvi" title="europvi" /> <span style="font-size:14px;">Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers, <br/> Computer Vision and Pattern Recognition (CVPR), 2021. <br/> Coming Soon</span>
