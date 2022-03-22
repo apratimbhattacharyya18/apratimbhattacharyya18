@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 
-I am a Postdoc at the University of Tuebingen working in the [Autonomous Vision Group](http://www.cvlibs.net/). My research interests lie in the areas of Generative Models, Bayesian Inference and their applictaion to the area of Autonomous Driving. Previously, I was a PhD student at the Max Planck Institut für Informatik, Saarbrücken, advised by [Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) and [Dr. Mario Fritz](https://cispa.saarland/group/fritz/) (My PhD thesis is available [here](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/32595) to thesis). I completed my Master's Thesis at Saarland University under the supervision of Dr. Jilles Vreeken in the area of Algorithmic Data Mining and my Bachelors degree at the National Institute of Technology, Karnataka, India.
+I am a Postdoc at the University of Tuebingen working in the [Autonomous Vision Group](http://www.cvlibs.net/). My research interests lie in the areas of Generative Models, Bayesian Inference and their applictaion to the area of Autonomous Driving. Previously, I was a PhD student at the Max Planck Institut für Informatik, Saarbrücken, advised by [Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) and [Dr. Mario Fritz](https://cispa.saarland/group/fritz/) (My PhD thesis is available [here](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/32595)). I completed my Master's Thesis at Saarland University under the supervision of Dr. Jilles Vreeken in the area of Algorithmic Data Mining and my Bachelors degree at the National Institute of Technology, Karnataka, India.
 
 ## Publications
 
