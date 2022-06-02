@@ -11,7 +11,7 @@ I am a Postdoc at the University of Tuebingen working in the [Autonomous Vision 
 ## Publications
 
 <img style="float: left; height:100px; width:200px; margin-right:20px" src="/images/papers/king.png" alt="king" title="king" /> <span style="font-size:14px;">KING: Generating Safety-Critical Driving Scenarios for <br/> Robust Imitation via Kinematics Gradients, <i> arXiv, 2022. </i> <br/> 
-<a href="https://arxiv.org/abs/2204.13683"> Paper </a>
+<a href="https://arxiv.org/abs/2204.13683"> Paper </a> | <a href="https://lasnik.github.io/king/"> Project Page </a>
 </span>
 <br><br><br>
 <img style="float: left; height:100px; width:200px; margin-right:20px" src="/images/papers/europvi.jpg" alt="europvi" title="europvi" /> <span style="font-size:14px;">Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers, <br/> <i> Computer Vision and Pattern Recognition (CVPR), 2021. </i> <br/> 
