@@ -6,10 +6,18 @@ redirect_from:
 ---
 
 
-I am a Postdoc at the University of Tuebingen working in the [Autonomous Vision Group](http://www.cvlibs.net/). My research interests lie in the areas of Generative Models, Bayesian Inference and their application to the area of Autonomous Driving. Previously, I was a PhD student at the Max Planck Institut für Informatik, Saarbrücken, advised by [Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) and [Dr. Mario Fritz](https://cispa.saarland/group/fritz/) (My PhD thesis is available [here](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32595/1/thesis.pdf)). I completed my Master's Thesis at Saarland University under the supervision of Dr. Jilles Vreeken in the area of Algorithmic Data Mining and my Bachelors degree at the National Institute of Technology, Karnataka, India.
+I am a Machine Learning Researcher at Qualcomm AI Research. My research interests lie in the areas of Large Language Models, Generative Models and Bayesian Inference. Previously, I was a Postdoc at the University of Tuebingen working in the [Autonomous Vision Group](http://www.cvlibs.net/). Before that I was a PhD student at the Max Planck Institut für Informatik, Saarbrücken, advised by [Dr. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) and [Dr. Mario Fritz](https://cispa.saarland/group/fritz/) (My PhD thesis is available [here](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/32595/1/thesis.pdf)). I completed my Master's Thesis at Saarland University under the supervision of Dr. Jilles Vreeken in the area of Algorithmic Data Mining and my Bachelors degree at the National Institute of Technology, Karnataka, India.
+
+## News
+* Our work "Look, Remember and Reason" will appear at the [KLR workshop at ICML 2023](https://klr-icml2023.github.io/).
+* Check out our work on using LLMs as fitness coaches at the [Embodied AI Workshop](https://embodied-ai.org/papers/2023/13.pdf) at CVPR 2023, [video](https://www.youtube.com/watch?v=JjAGMFvqphQ) and [blogpost](https://www.qualcomm.com/news/onq/2023/06/qualcomm-at-cvpr-2023-advancing-research-bringing-generative-ai-to-the-edge?cmpid=soc-9yOddDm13x&utm_medium=soc&utm_source=LI&utm_campaign=qc-at-cvpr-2023).
+* Check out our sdfstudio repo: [A Unified Framework for Surface Reconstruction](https://github.com/autonomousvision/sdfstudio).
 
 ## Publications
-
+<img style="float: left; height:100px; width:200px; margin-right:20px" src="/images/papers/llr.jpg" alt="king" title="king" /> <span style="font-size:14px;">Look, Remember and Reason: Visual Reasoning with Grounded Rationales, <br/> <i> Technical Report, 2023. </i> <br/>
+<a href="https://arxiv.org/pdf/2306.17778.pdf"> Paper </a>
+</span>
+<br><br><br>
 <img style="float: left; height:100px; width:200px; margin-right:20px" src="/images/papers/king.png" alt="king" title="king" /> <span style="font-size:14px;">KING: Generating Safety-Critical Driving Scenarios for <br/> Robust Imitation via Kinematics Gradients, <br/> <i> European Conference on Computer Vision (ECCV), 2022 (oral). </i> <br/> 
 <a href="https://arxiv.org/abs/2204.13683"> Paper </a> | <a href="https://lasnik.github.io/king/"> Project Page </a>
 </span>
