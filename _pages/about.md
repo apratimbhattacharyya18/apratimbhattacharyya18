@@ -14,7 +14,7 @@ I am a Machine Learning Researcher at Qualcomm AI Research. My research interest
 * Check out our sdfstudio repo: [A Unified Framework for Surface Reconstruction](https://github.com/autonomousvision/sdfstudio).
 
 ## Publications
-<img style="float: left; height:100px; width:200px; margin-right:20px" src="/images/papers/lrr.jpg" alt="king" title="LRR" /> <span style="font-size:14px;">Look, Remember and Reason: Visual Reasoning with Grounded Rationales, <br/> <i> Technical Report, 2023. </i> <br/>
+<img style="float: left; height:100px; width:200px; margin-right:20px" src="/images/papers/lrr.jpg" alt="LRR" title="LRR" /> <span style="font-size:14px;">Look, Remember and Reason: Visual Reasoning with Grounded Rationales, <br/> <i> Technical Report, 2023. </i> <br/>
 <a href="https://arxiv.org/pdf/2306.17778.pdf"> Paper </a>
 </span>
 <br><br><br>
